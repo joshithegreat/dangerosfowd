@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #f8f8f8;
+  color: #222;
+}
+#menu, #cart {
+  margin-top: 20px;
+}
+button {
+  padding: 10px 20px;
+  background-color: green;
+  color: white;
+  border: none;
+  margin-top: 20px;
+}
